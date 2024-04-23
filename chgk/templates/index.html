@@ -1,10 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Что? Где? Когда? в филиале "Джойнт" в РУз</title>
-</head>
-<body>
+{% extends 'base.html' %}
 
-</body>
-</html>
+{% block title %}
+    Что? Где? Когда? в Филиале "Джойнт" в РУз
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" type="text/css" href="{{ static('css', 'index.css') }}">
+{% endblock %}
+
+{% block body %}
+    Test
+{% endblock %}
