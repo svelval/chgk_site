@@ -1,0 +1,29 @@
+html,body
+{
+    height:100%;
+    margin:0;
+    padding:0;
+    background-color: #a8ecff;
+}
+.main_table
+{
+    display: table;
+    height: 100%;
+    margin: auto;
+    background-color: white;
+    width: 60%;
+}
+.main_table_row
+{
+    width: 100%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_table_cell
+{
+    height: auto;
+    float:left;
+    display:table-column;
+}
