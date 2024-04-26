@@ -1,3 +1,17 @@
+:root {
+    --pink: #ff008c;
+    --light-pink: #ff41a5;
+    --blue: #a8ecff;
+    --navy-blue: #003891;
+    --red: red;
+    --dark-red: #be0000;
+    --blue-gradient: linear-gradient(to top, var(--blue), white);
+    --inverse-blue-gradient: linear-gradient(to top, white, var(--blue));
+    --red-gradient: linear-gradient(to top, var(--dark-red), var(--red));
+    --inverse-red-gradient: linear-gradient(to top, var(--red), var(--dark-red));
+    --pink-gradient: linear-gradient(to top, var(--pink), var(--light-pink));
+    --inverse-pink-gradient: linear-gradient(to top, var(--light-pink), var(--pink));
+}
 html,body
 {
     height:100%;
