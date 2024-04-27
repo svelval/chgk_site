@@ -17,7 +17,7 @@ html,body
     height:100%;
     margin:0;
     padding:0;
-    background-color: #a8ecff;
+    background-color: var(--blue);
 }
 .main_table
 {
@@ -30,7 +30,7 @@ html,body
 .main_table_row
 {
     width: 100%;
-    height: 90%;
+    height: 70%;
     display: flex;
     justify-content: center;
     align-items: center;
