@@ -41,3 +41,45 @@ html,body
     float:left;
     display:table-column;
 }
+.main_table_header_row {
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-menu
+{
+    background: var(--blue-gradient);
+    border: solid var(--navy-blue);
+}
+.main-menu:hover {
+    background: var(--inverse-blue-gradient);
+}
+a.control {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center; /* Align horizontal */
+    align-items: center; /* Align vertical */
+    color: var(--navy-blue);
+    font-family: "Arial", serif;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.height_5
+{
+    height: 5%;
+}
+.width_100
+{
+    width: 100%;
+}
+.height_100
+{
+    height: 100%;
+}
+.without_right_border
+{
+    border-right: 0;
+}
