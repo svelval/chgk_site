@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46d959e2-ac31-47ae-be58-ed543b7ed8db" name="Changes" comment="base.html connected to index.html">
-      <change afterPath="$PROJECT_DIR$/chgk/context_processor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chgk/preprocessors.py" afterDir="false" />
+    <list default="true" id="46d959e2-ac31-47ae-be58-ed543b7ed8db" name="Changes" comment="new styles in base.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chgk/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/chgk/static/css/base.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chgk/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/chgk/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chgk/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chgk/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chgk/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/chgk/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,12 +99,57 @@
       <option name="project" value="LOCAL" />
       <updated>1713896087725</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Context processors initialized">
+      <option name="closed" value="true" />
+      <created>1713971599006</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713971599006</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Designing of the base template started">
+      <option name="closed" value="true" />
+      <created>1713971629151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713971629151</updated>
+    </task>
+    <task id="LOCAL-00005" summary="variables added to base.css">
+      <option name="closed" value="true" />
+      <created>1714142801305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714142801305</updated>
+    </task>
+    <task id="LOCAL-00006" summary="background color &amp; main_table_row height changed to 70%">
+      <option name="closed" value="true" />
+      <created>1714227821556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714227821556</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new styles in base.css">
+      <option name="closed" value="true" />
+      <created>1714227850940</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714227850940</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="base.html connected to index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="base.html connected to index.html" />
+    <MESSAGE value="Context processors initialized" />
+    <MESSAGE value="Designing of the base template started" />
+    <MESSAGE value="variables added to base.css" />
+    <MESSAGE value="background color &amp; main_table_row height changed to 70%" />
+    <MESSAGE value="new styles in base.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="new styles in base.css" />
   </component>
 </project>
