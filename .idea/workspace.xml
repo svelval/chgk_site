@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46d959e2-ac31-47ae-be58-ed543b7ed8db" name="Changes" comment="new styles in base.css">
+    <list default="true" id="46d959e2-ac31-47ae-be58-ed543b7ed8db" name="Changes" comment="workspace.xml updated">
+      <change afterPath="$PROJECT_DIR$/chgk/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chgk/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/chgk/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chgk/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chgk/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +140,31 @@
       <option name="project" value="LOCAL" />
       <updated>1714227850940</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="header added to base.html">
+      <option name="closed" value="true" />
+      <created>1714227901554</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714227901554</updated>
+    </task>
+    <task id="LOCAL-00009" summary="initial content in index.html">
+      <option name="closed" value="true" />
+      <created>1714227921791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714227921791</updated>
+    </task>
+    <task id="LOCAL-00010" summary="workspace.xml updated">
+      <option name="closed" value="true" />
+      <created>1714227934486</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714227934486</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -150,6 +175,9 @@
     <MESSAGE value="variables added to base.css" />
     <MESSAGE value="background color &amp; main_table_row height changed to 70%" />
     <MESSAGE value="new styles in base.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="new styles in base.css" />
+    <MESSAGE value="header added to base.html" />
+    <MESSAGE value="initial content in index.html" />
+    <MESSAGE value="workspace.xml updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml updated" />
   </component>
 </project>
