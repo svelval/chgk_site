@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46d959e2-ac31-47ae-be58-ed543b7ed8db" name="Changes" comment="workspace.xml updated">
-      <change afterPath="$PROJECT_DIR$/chgk/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+    <list default="true" id="46d959e2-ac31-47ae-be58-ed543b7ed8db" name="Changes" comment="project settings added">
+      <change afterPath="$PROJECT_DIR$/chgk/database_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chgk/database_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/management.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chgk/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/chgk/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chgk/preprocessors.py" beforeDir="false" afterPath="$PROJECT_DIR$/chgk/preprocessors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714227934486</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="database.py added">
+      <option name="closed" value="true" />
+      <created>1714396031369</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714396031369</updated>
+    </task>
+    <task id="LOCAL-00012" summary="project settings added">
+      <option name="closed" value="true" />
+      <created>1714396053181</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714396053181</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +198,8 @@
     <MESSAGE value="header added to base.html" />
     <MESSAGE value="initial content in index.html" />
     <MESSAGE value="workspace.xml updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml updated" />
+    <MESSAGE value="database.py added" />
+    <MESSAGE value="project settings added" />
+    <option name="LAST_COMMIT_MESSAGE" value="project settings added" />
   </component>
 </project>
